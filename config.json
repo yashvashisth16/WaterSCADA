@@ -1,0 +1,9 @@
+{
+    "plc_ip": "192.168.1.7",
+    "plc_port": 502,
+    "simulation_mode": false,
+    "inlet_auto_start": "19:50",
+    "inlet_auto_stop": "20:30",
+    "outlet_auto_start": "21:00",
+    "outlet_auto_stop": "22:00"
+}

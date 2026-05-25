@@ -1,0 +1,23 @@
+# --- Main GUI Framework ---
+PySide6>=6.5.0
+
+# --- Deployment / Packaging (To make the .exe) ---
+pyinstaller>=6.0.0
+# nuitka>=2.0.0  # Uncomment if you decide to use Nuitka instead of PyInstaller
+
+# =======================================================
+# OPTIONAL HARDWARE LIBRARIES (Uncomment what you need)
+# =======================================================
+
+# --- If communicating via USB / Serial Port (e.g., Arduino, ESP32) ---
+# pyserial>=3.5
+
+# --- If communicating via Modbus (Standard Industrial PLC protocol) ---
+# pymodbus>=3.5.0
+
+# --- If running directly on a Raspberry Pi using its GPIO pins ---
+# RPi.GPIO>=0.7.1
+
+# --- If communicating over MQTT (IoT networks) ---
+# paho-mqtt>=1.6.1
+

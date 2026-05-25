@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# PyInstaller
+*.spec
+
+# Database and runtime files
+scada.db
+*.log
+
+# VS Code and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
